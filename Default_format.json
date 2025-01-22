@@ -1,0 +1,47 @@
+{
+    "default_Bed_count": 5,
+    "default_Sex_count": 2,
+    "default_Entries_count": 5,
+    "default_table_rows_count": 6,
+
+    "each_sex_value_names": {
+        "Sex_1_name": "Male",
+        "Sex_2_name": "Female"
+    },
+    "each_entry_layout": {
+        "entry_1": {
+            "title": "Antimicrobials",
+            "title_Description": "Some_details_about_antimicrobials"
+        },
+        "entry_2": {
+            "title": "Feeds",
+            "title_Description": "Some_details_about_feeds"
+        }
+    },
+    "each_table_row_layout": {
+        "row_1": {
+            "row_header_name": "Date",
+            "row_header_description": "some_date"
+        },
+        "row_2": {
+            "row_header_name": "Time",
+            "row_header_description": "some_time"
+        },
+        "row_3": {
+            "row_header_name": "Weight",
+            "row_header_description": "some_weight"
+        },
+        "row4": {
+            "row_header_name": "Height",
+            "row_header_description": "some_Height"
+        },
+        "row5": {
+            "row_header_name": "IVF",
+            "row_header_description": "some_IVF"
+        },
+        "row6": {
+            "row_header_name": "Na",
+            "row_header_description": "some_Na"
+        }
+    }
+}
